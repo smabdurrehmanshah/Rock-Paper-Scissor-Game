@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #191919;
+  color: white;
+}
+
+
+
+img {
+  height: 50px;
+}
+
+.button {
+  background-color: transparent;
+  border: 3px solid white;
+  padding: 30px;
+  border-radius: 50%;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+
+.result {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.score {
+  margin-top: 60px;
+}
+
+.reset-button,
+.auto-play-button,
+.reset-confirm-button {
+  background-color: #FFFFFF;
+  padding: 8px 15px;
+  border: none;
+  font-size: 15px;
+  cursor: pointer;
+
+}
+
+.reset-confirm-button {
+  margin-left: 10px;
+}
+
+.reset-confirmation {
+  margin-top: 15px;
+}

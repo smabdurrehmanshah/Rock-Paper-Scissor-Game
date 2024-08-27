@@ -1,0 +1,2 @@
+# Rock Paper Scissor Game
+<p>I recently developed a Rock Paper Scissors game using JavaScript, HTML, and CSS. Through this project, I enhanced my JavaScript skills by working with callbacks, DOM manipulation, event handling, and functions like setTimeout and setInterval, among other concepts.</p>
